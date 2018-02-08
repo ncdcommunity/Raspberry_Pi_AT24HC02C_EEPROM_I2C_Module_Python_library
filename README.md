@@ -10,7 +10,7 @@ This Device is available from www.ncd.io
 (https://store.ncd.io/product/at24hc02c-256-byte-eeprom-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
-Hardware needed to interface AT24HC02 3Axis Accelometer With Raspberry Pi :
+Hardware needed to interface AT24HC02C 256Byte EEPROM With Raspberry Pi :
 
 1. <a href="https://store.ncd.io/product/at24hc02c-256-byte-eeprom-i2c-mini-module/">AT24HC02C 256Byte EEPROM</a>
 
